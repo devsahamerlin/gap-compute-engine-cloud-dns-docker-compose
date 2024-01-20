@@ -1,6 +1,6 @@
 # How to host your applications on compute engine and configure domain name with Cloud DNS ?
 
-Youtube Video: 
+Youtube Video: https://youtu.be/rnQ_zIe417w
 
 Video sur le Backend NodeJs Mongo DB: https://www.youtube.com/watch?v=hEdkuuJ_wIw&t=225s
 
